@@ -4,7 +4,7 @@
   "description": "",
   "main": "",
   "scripts": {
-    "test": "stylelint style.scss"
+    "test": "stylelint style.css"
   },
   "author": "",
   "license": "ISC",
